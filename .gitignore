@@ -1,0 +1,4 @@
+log1360/
+__pycache__/
+*.sqlite3
+git
